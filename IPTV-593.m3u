@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png", Gol Tv Ecuador HD
+https://sll.deplayer.pw:30443/edge/ver7983e90db0a77f72fd83623310d59471/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNDozMzoxNiBBTSZoYXNoX3ZhbHVlPUNnb01yRnRaZmxXN3hHSkhlTXo5MEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+
+#EXTINF:-1 tvg-log="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png", El Canal Del Futbol HD
+https://ed5.zorrohd.nl/live/ST715a7bcb56b3aa8.m3u8
+
+
