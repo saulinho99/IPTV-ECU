@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1, ECUADOR TV
+http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/231028627.m3u8?dw=80&hdnea=st=1652157341~exp=1652159141~acl=/i/27228685_9764041_lsiymltzw8v8gk97obt_1@339747/*~hmac=5fa250a2d278297b23910a8a04a3f1b0d7ff6cf57295c02980e8ef6762eb94a4&token=6279ecc9_442c2be8e23f2ac5b4284ebdccf56e157fa1bd91
